@@ -1,4 +1,4 @@
-<h1>Trabalho Analise de dados Publicos com python utilizando a biblioteca Pandas </h1>
+<h1>Analise de dados Publicos com python utilizando a biblioteca Pandas </h1>
 
 <p>Neste trabalho foi utilizado a tabela de levantamento historico das turmas de ADS da fatec de sjc, de 2014 a 2018 </p>
 
