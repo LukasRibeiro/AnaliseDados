@@ -11,23 +11,20 @@ visualização de dados, aprendizado de máquina e muito mais.
 <h3>Requisitos</h3>
 
 <p>Para a instalação do jupyter notebook é nescessario:
-	<ul>
-<li>
-	Python 3.6 ou python 3.7
-</li>
-		
-<li>
-	Em seguida digitar o comando: python -m pip install --upgrade pip
-</li>
-		
-<li>
-	instalar: pip install requests beautifulsoup4 spotipy pdfminer3k selenium twitter wbdata pandas matplotlib lxml tweepy uber-rides xlrd PyPDF2 pytrends seaborn numpy ipython jupyter	
-</li>
-		
-<li>
-	para instalação minima: pip install requests beautifulsoup4 wbdata pandas matplotlib lxml pytrends seaborn numpy ipython jupyter;
-</li>
-	</ul>
+
+```
+Python 3.6 ou python 3.7
+```	
+
+Em seguida digitar o comando: python -m pip install --upgrade pip
+
+```
+instalar: pip install requests beautifulsoup4 spotipy pdfminer3k selenium twitter wbdata pandas matplotlib lxml tweepy uber-rides xlrd PyPDF2 pytrends seaborn numpy ipython jupyter	
+```		
+
+```
+Para instalação minima: pip install requests beautifulsoup4 wbdata pandas matplotlib lxml pytrends seaborn numpy ipython jupyter;
+```
 </p>
 	
 
